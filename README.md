@@ -2,6 +2,7 @@
 # project3
 
 <!-- badges: start -->
+[![R build status](https://github.com/loriWang999/project3/workflows/R-CMD-check/badge.svg)](https://github.com/loriWang999/project3/actions)
 <!-- badges: end -->
 
 The goal of project3 is to ...
