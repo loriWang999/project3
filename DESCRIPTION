@@ -6,7 +6,7 @@ Authors@R:
            family = "Wang",
            role = c("aut", "cre"),
            email = "zexinw@uw.edu")
-Description: A package for project 3 of STAT302. This packages contains 
+Description:  Project 3 of STAT302. This packages contains 
     t-test, linear regression, k-nearest neighbors cross-validation, and
     random forest tree cross-validation as four functions to analyse the data
     and costruct the model.
