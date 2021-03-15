@@ -1,5 +1,6 @@
 ---
 title: "Project 3: project 3 Tutorial"
+author : "Lori Wang"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Project 3: project 3 Tutorial}
